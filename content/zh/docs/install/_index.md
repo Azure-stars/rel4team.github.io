@@ -2,6 +2,7 @@
 weight: 1
 bookCollapseSection: true
 title: "安装"
+commentsId: 1 
 ---
 
 # 安装
